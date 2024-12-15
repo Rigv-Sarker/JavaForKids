@@ -1,5 +1,6 @@
 package java4Kids_variables;
 // Lesson 3: Variables
+// Started GIT
 
 public class Variables {
 	
