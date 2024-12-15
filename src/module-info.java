@@ -1,0 +1,3 @@
+module java4Kids {
+	
+}
