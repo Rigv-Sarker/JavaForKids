@@ -1,4 +1,4 @@
-package variables;
+package reviewClasses;
 //variables
 public class ReviewClass_1to3 {
               static int x=122;
