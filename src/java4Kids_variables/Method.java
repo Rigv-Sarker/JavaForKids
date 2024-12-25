@@ -3,7 +3,7 @@ package java4Kids_variables;
 public class Method {
 	// Instance variable 
 	static String y="Hello world";
-	static int w=1005;
+	static int w=1000000000;
 	static int v=1000;
 	
 	// main method starts
@@ -15,6 +15,7 @@ public class Method {
 		
 		addition(); // call the addition method
 		grade();
+		sub();
 	} // main method ends
 	
 	// access modifier  --> optional 
@@ -36,7 +37,13 @@ public class Method {
 		int g = 1;
 		System.out.println("I am in grade "+g);
 	}
-	
+	// sub method
+	static void sub(){
+	int x =100;			//local variable	
+	int s =20;			//local variable
+	int a =(x-s);
+	System.out.println(a);
+	}
 	
 	
 }
