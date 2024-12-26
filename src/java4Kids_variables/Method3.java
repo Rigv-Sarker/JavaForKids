@@ -8,7 +8,7 @@ public class Method3 {// start Method3 class
 	}//end main method
 	static void div() {//start div method
 		int x = 100000;
-		int s = 10000;
+		int s = 100000;
 		int w = (x / s);
 		System.out.println(w);
 
