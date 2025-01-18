@@ -1,4 +1,4 @@
-package java4Kids_variables;
+package java4Kids;
 // Lesson 3: Variables
 
 // Started GIT

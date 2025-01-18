@@ -1,4 +1,4 @@
-package java4Kids_variables;
+package java4Kids;
 
 public class Method2 { // start Method2 class
 
@@ -9,8 +9,8 @@ public class Method2 { // start Method2 class
 	}// main method end
 
 	static void multi() {// multi method start
-		int q = 100;
-		int p = 1000;
+		int q = 10022222;
+		int p = 10003;
 		int a = (q * p);
 		System.out.println(a);
 	}// multi method end
