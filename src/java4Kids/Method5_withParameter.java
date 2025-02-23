@@ -7,7 +7,7 @@ public class Method5_withParameter {
 		additionWithParameter(13, 60);
 		additionWithParameter(50, 90);
 		System.out.println("Done");
-	}
+	}	
 
 	static void additionWithParameter(int num1, int num2) {
 
